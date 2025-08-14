@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.feature-image {
+    transition: transform 0.3s ease-in-out;
+}
+
+.feature-image.scale-up {
+    transform: scale(1.1);
+}

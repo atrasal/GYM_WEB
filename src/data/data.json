@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "membershipNumber": "MEM001",
+    "batch": "Morning",
+    "feesStatus": "unpaid",
+    "membershipDuration": "12 months",
+    "expiryDate": "2025-03-01",
+    "joinDate": "2024-03-01",
+    "lastVisit": "2024-03-15",
+    "attendedClasses": 24,
+    "totalClasses": 50,
+    "personalTrainer": "Sarah Johnson",
+    "fitnessGoals": [
+      "Weight Loss",
+      "Muscle Gain",
+      "Improved Flexibility"
+    ],
+    "upcomingClasses": [
+      {
+        "name": "HIIT Training",
+        "date": "2024-03-20",
+        "time": "09:00 AM"
+      },
+      {
+        "name": "Yoga Flow",
+        "date": "2024-03-22",
+        "time": "10:30 AM"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Emily Smith",
+    "email": "emily@example.com",
+    "membershipNumber": "MEM002",
+    "batch": "Evening",
+    "feesStatus": "paid",
+    "membershipDuration": "6 months",
+    "expiryDate": "2024-09-01",
+    "joinDate": "2024-03-01",
+    "lastVisit": "2024-03-18",
+    "attendedClasses": 12,
+    "totalClasses": 30,
+    "personalTrainer": "Jake Carter",
+    "fitnessGoals": [
+      "Strength Training",
+      "Endurance",
+      "Yoga"
+    ],
+    "upcomingClasses": [
+      {
+        "name": "Zumba",
+        "date": "2024-03-25",
+        "time": "05:00 PM"
+      },
+      {
+        "name": "Strength Training",
+        "date": "2024-03-28",
+        "time": "06:00 PM"
+      }
+    ]
+  }
+]
